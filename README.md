@@ -22,7 +22,7 @@
 </ul>
 </h5>
 <br></br>
-<h6>INTERFACE DO SISTEMA CRIADA COM HTML,CSS e PHP</h6>
+<p>INTERFACE DO SISTEMA CRIADA COM HTML,CSS e PHP</p>
 <br></br>
 <p align="center">
   <img src="IMG/img1.png" width="350" title="hover text">
