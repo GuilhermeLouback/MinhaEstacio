@@ -40,7 +40,7 @@ Observação: O campo deve conter ao menos um caractere
 
 
 <h6>
-ADICIONANDO ITEM NA TABELA DE DISCIPLINAS DO BANCO DE DADOS 
+ADICIONANDO ITEM NA TABELA DE DISCIPLINA DO BANCO DE DADOS 
 </h6>
 <br></br>
 <p align="center">
