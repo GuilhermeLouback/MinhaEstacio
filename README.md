@@ -28,20 +28,20 @@
   <img src="IMG/img1.png" width="350" title="hover text">
 </p>
 
-<h6>
+<h5>
 VALIDAÇÃO DO FORMULARIO ADICIONAR DISCIPLINAS
 <br>
 Observação: O campo deve conter ao menos um caractere
-</h6>
+</h5>
 <br></br>
 <p align="center">
   <img src="IMG/img2.png" width="350" title="hover text">
 </p>
 
 
-<h6>
+<h5>
 ADICIONANDO ITEM NA TABELA DE DISCIPLINA DO BANCO DE DADOS 
-</h6>
+</h5>
 <br></br>
 <p align="center">
   <img src="IMG/img3.png" width="350" title="hover text">
