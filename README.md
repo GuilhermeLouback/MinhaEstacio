@@ -24,8 +24,18 @@
 <br></br>
 <h6>Interface do programa criada com HTML,CSS e PHP</h6>
 <br></br>
-
 <p align="center">
   <img src="IMG/img1.png" width="350" title="hover text">
+</p>
+
+<h6>
+Validação do formulario adiconar disciplina
+<br>
+Observação: O campo deve conter ao menos um caractere
+
+</h6>
+<br></br>
+<p align="center">
+  <img src="IMG/img2.png" width="350" title="hover text">
 </p>
 
