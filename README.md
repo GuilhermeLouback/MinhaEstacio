@@ -21,11 +21,13 @@
 
 </ul>
 
-<link href = "IMG/img1.png"> </link>
-
 
 
 
 </h5>
+
+<div align="center">
+  <a href="https://github.com/GuilhermeLouback/MinhaEstacio/img1.png">
+</div>
 
 
