@@ -4,20 +4,19 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
+
 <ul>
     <li>
     Manipulçao de DOM
     </li>
     <li>
-    Manipulçao de DOM
+    CRUD
     </li>
     <li>
-    Manipulçao de DOM
+    Manipulçao de DataBase
     </li>
     <li>
-    Manipulçao de DOM
+    Manipulçao de Arquivos
     </li>
 
 </ul>
