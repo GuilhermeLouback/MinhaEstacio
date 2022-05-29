@@ -44,9 +44,6 @@ ADICIONANDO ITEM NA TABELA DE DISCIPLINAS DO BANCO DE DADOS
 </h6>
 <br></br>
 <p align="center">
-  <img src="IMG/img2.png" width="350" title="hover text">
-</p>
-<p align="center">
   <img src="IMG/img3.png" width="350" title="hover text">
 </p>
 <p align="center">
