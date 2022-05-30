@@ -1,9 +1,10 @@
 <div class="titulo">Nome</div>
 
-<fieldset id="aluno">
-      <label for="cname">Nome Completo:</label>
-      <input type="text" id="cname" name="cname"><br><br>
-      <input type="submit" value="Submit">
-     
-      
-</fieldset>
+<form action="/action_page.php" method="post">
+      <fieldset>
+            <label for="nome">Digite o nome do Aluno:</label>
+            <input type="text" name="fname" required>
+            <br></br>
+            <input type="submit" value="Submit">
+      </fieldset>
+</form>

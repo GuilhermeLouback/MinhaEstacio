@@ -5,7 +5,7 @@
 
 <fieldset>
 <label for="curso">Curso:</label>
-      <select name="nota" id="nota">
+      <select name="nota" id="nota" required>
         <option value="ADS">Analise e Desenvolvimento de Sistemas</option>
       </select><br><br>
       <input type="submit" value="Submit">
