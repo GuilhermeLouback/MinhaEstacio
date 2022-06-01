@@ -1,9 +1,11 @@
 <div class="titulo">Dias da Semana</div>
 
-<fieldset id="horario" >
+
+<form action=".config/process.php" onsubmit="return validateHorarioDS()" method="post">
+<fieldset >
       <legend>Horário</legend>
       <p>Digite o dia da semana:</p>
-      <input type="date" name="data">
+      <input type="date" name="DiaS">
       <p>Hora de inicio e hora de término:</p>
       <input type="time" id="timei">
       <input type="time" id="timet">

@@ -1,8 +1,11 @@
 <div class="titulo">Nota </div>
 
-<fieldset id="classificacao">
-<label for="nota">Nota :</label>
-      <select name="nota" id="nota">
+
+<form action=".config/process.php" onsubmit="return validateClassNota()" method="post">
+<fieldset >
+<label>Nota :</label>
+      <select name="nota" >
+        <option value=""></option>
         <option value="1">1</option>
         <option value="2">2</option>
         <option value="3">3</option>
