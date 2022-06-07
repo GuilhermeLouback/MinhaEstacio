@@ -39,10 +39,6 @@ function validateClassTime(){
 	}
 }
 
---------------------------------------
-continuar aqui
-
-
 function validateFormNome() {
 	let nomeDiscp = document.forms["form1"]["nome"].value;
 	if (nomeDiscp == "") {
