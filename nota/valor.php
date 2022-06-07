@@ -1,7 +1,12 @@
 <div class="titulo">Valor</div>
 
-<fieldset id="Nota" >
-      <label for="nota">Nota das provas: </label><br></br>
-      <input type="number"><br></br>
-      <input type= "submit" value="Submit">
-</fieldset>
+
+
+<form action="#" onsubmit="return validateNotaValor()" method="post">
+
+<label for="nota">Nota das provas: </label><br></br>
+<input type="number" name = "notaValor"><br></br>
+<input type= "submit" value="Submit">
+
+
+</form>

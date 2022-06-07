@@ -1,5 +1,7 @@
 <div class="titulo">Disciplinas</div>
 
+
+<form action="#" onsubmit="return validateHorarioD()" method="post">
 <fieldset id="horario" >
 
       <p>Selecione Disciplinas:</p>
@@ -13,3 +15,4 @@
       <label for="html">PAR. DE LING. DE PROGRAMAÇÃO EM PYTHON</label><br>
       <input type="submit">
 </fieldset>
+</form>

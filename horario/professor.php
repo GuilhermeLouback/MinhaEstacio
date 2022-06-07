@@ -1,5 +1,7 @@
 <div class="titulo">Professor</div>
 
+
+<form action="#" onsubmit="return validateHorarioProf()" method="post">
 <fieldset id="horario" >
 <P>Selecione o Professor: </P>
       <label for="Professor"></label>
@@ -10,3 +12,4 @@
         <input type="submit"></input>
       </select>
 </fieldset>
+</form>

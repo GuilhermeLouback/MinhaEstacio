@@ -1,9 +1,10 @@
 <div class="titulo">Conehcimento</div>
 
-<fieldset id="professor" >
+<form action="#" onsubmit="return validateProfConhe()" method="post">
 
-      <label for="descricao">Informe sobre os conhecimentos do professor: </label>
-      <textarea></textarea>
-      <br><br>
-      <input type="submit"><br><br>
-    </fieldset>
+<label for="descricao">Informe sobre os conhecimentos do professor: </label>
+<textarea name = "conhecimento"></textarea>
+<br><br>
+<input type="submit"><br><br>
+
+</form>
