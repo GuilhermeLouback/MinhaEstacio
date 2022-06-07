@@ -168,11 +168,11 @@
     <footer class="rodape">
        
         <?= 
-        
         date('');
-        setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
+        setlocale(LC_ALL, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
         date_default_timezone_set('America/Sao_Paulo');
-        echo strftime('%A, %d de %B de %Y', strtotime('today'));
+        $uppercaseMonth = ucfirst(gmstrftime('%B'));
+        echo utf8_encode(strftime( '%A, %d de ' .$uppercaseMonth. ' de %Y', strtotime('today')));
         ?>
     </footer>
 </body>
